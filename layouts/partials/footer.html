@@ -1,0 +1,21 @@
+{{/* 修改后的页脚模板 */}}
+<footer class="site-footer">
+  <div class="container">
+    <div class="row">
+      {{/* 保留版权信息 */}}
+      <div class="col-md-6">
+        <p class="powered-by">
+          {{ with .Site.Copyright }}{{ . | markdownify }} &middot; {{ end }}
+        </p>
+      </div>
+      
+      {{/* 移除Hugo Blox Builder声明 */}}
+      <div class="col-md-6">
+        <ul class="list-inline network-icon">
+          {{/* 保留社交图标 */}}
+          {{ partial "social_links" . }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</footer>
