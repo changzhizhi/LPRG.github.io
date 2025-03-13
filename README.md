@@ -1,4 +1,3 @@
-1
 # [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
@@ -49,4 +48,3 @@ Please replace the demo images with your own.
   - https://unsplash.com/photos/WNoLnJo7tS8
 
 
--- commit-test
