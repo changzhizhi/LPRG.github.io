@@ -9,9 +9,6 @@ last_name: Chunyu
 # Is this the primary user of the site?
 # speruser: true
 
-authors:
-  - 丁春雨
-
 # Role/position
 role: 研究员，博士生导师
 

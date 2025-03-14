@@ -9,7 +9,9 @@ sections:
     content:
       title: 联系我们
       text: |-
-        请通过以下详细信息联系我们：
+        网站维护：changzhijiang528@gmail.com
+        - 请通过以下详细信息联系我们：
+   
       email: dingchunyu@szu.edu.cn
       phone: 185 1085 1750
       address:
@@ -23,6 +25,7 @@ sections:
         latitude: '22.5320'
         longitude: '113.9350'
       directions: 深圳大学沧海校区致知楼729
+      
 
       #contact_links:
       #  - icon: comments
