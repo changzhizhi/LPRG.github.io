@@ -9,7 +9,8 @@ sections:
     content:
       title: 联系我们
       text: |-
-        请通过以下详细信息联系我们：
+        网站维护：changzhijiang528@gmail.com
+        - 请通过以下详细信息联系我们：
       email: dingchunyu@szu.edu.cn
       phone: 185 1085 1750
       address:
