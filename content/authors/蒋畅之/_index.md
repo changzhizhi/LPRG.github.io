@@ -43,7 +43,7 @@ user_groups:
   - 本科生
 ---
 
-**蒋畅之**，本科就读于[深圳大学高等研究院](https://ias.szu.edu.cn/)物理学专业，辅修生物科学，2025年前往[中国科学院国家天文台](http://www.bao.ac.cn/)攻读博士学位（导师：苏彦研究员）。本科期间师从[丁春雨](https://ias.szu.edu.cn/info/1046/2793.htm)研究员，研究火星天问一号雷达探测、火星次表层水文和宜居性。目前以第一作者在Space Science Reivews和Nature Geoscience（审稿中）期刊发表/审稿中的论文2篇，以共同作者参与的工作在IEEE TGRS、The Astronomical Journal、Remote Sensing、Icarus、Earth and Planetary Physics等国际知名期刊发表/审稿中的论文数篇。作为负责人主持/参与国家级大学生创新创业训练计划项目2项，中国科学院大学生创新实践训练计划项目1项，高等研究院科研培育项目1项，深圳大学学生创新发展基金项目1项。本科期间带队参加The Mathematical Contest in Modeling（MCM）获Finalist（全球前1%），全国大学生物理实验竞赛获全国二等奖等竞赛奖项、奖学金与荣誉三十余项。
+**蒋畅之**，本科就读于[深圳大学高等研究院](https://ias.szu.edu.cn/)物理学专业，辅修生物科学，2025年前往[中国科学院国家天文台](http://www.bao.ac.cn/)攻读博士学位（导师：苏彦研究员）。本科期间师从[丁春雨](https://ias.szu.edu.cn/info/1046/2793.htm)研究员，研究火星天问一号雷达探测、火星次表层水文和宜居性。目前以第一作者在Space Science Reivews和Nature Geoscience（审稿中）期刊发表/审稿中的论文2篇，以共同作者参与的工作在IEEE TGRS、The Astronomical Journal、Remote Sensing、Icarus、Earth and Planetary Physics、Nature Communications（审稿中）等期刊发表/审稿中的论文数篇。作为负责人主持/参与国家级大学生创新创业训练计划项目2项，中国科学院大学生创新实践训练计划项目1项，高等研究院科研培育项目1项，深圳大学学生创新发展基金项目1项。本科期间带队参加The Mathematical Contest in Modeling（MCM）获Finalist（全球前1%），全国大学生物理实验竞赛获全国二等奖等竞赛奖项、奖学金与荣誉三十余项。
 
 ### 研究领域
   - 火星水文
