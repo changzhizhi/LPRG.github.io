@@ -11,10 +11,6 @@ sections:
       text: |-
         网站维护：changzhijiang528@gmail.com
         - 请通过以下详细信息联系我们：
-<<<<<<< HEAD
-   
-=======
->>>>>>> da8d9781f850766cece34c987cbb8236f28aea6e
       email: dingchunyu@szu.edu.cn
       phone: 185 1085 1750
       address:
