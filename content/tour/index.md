@@ -9,7 +9,7 @@ sections:
     content:
       slides:
       - title: 欢迎来到月球与行星雷达团组
-        content: 👋 我们致力于：服务国家深空探测战略，实现具有国际影响力的月球与行星雷达理论研究和技术研发的开放平台
+        content: 👋 我们致力于：打造月球与深空探测领域科技创新高地，引领深空科学突破与国际合作新范式。
         align: center
         background:
           image:
@@ -24,7 +24,7 @@ sections:
           text: 我们正在研究...
           url: ../publication/
       - title: 我们的团队
-        content:  ☕️ 我们致力于：深耕探月雷达与行星次表层探测技术，培养行星雷达天文学领域后继人才
+        content:  ☕️ 我们致力于：深耕探月雷达与行星次表层探测技术，培养行星雷达天文学领军人才。
         align: left
         background:
           image:
