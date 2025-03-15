@@ -12,7 +12,7 @@ sections:
         
         **月球与行星雷达团组**
       image:
-        filename: welcome.jpg
+        filename: welcome2.png
       text: |
         <br>
         

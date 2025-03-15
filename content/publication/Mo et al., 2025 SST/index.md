@@ -2,12 +2,16 @@
 title: "Water ice and the shallow regolith structure of the Shackleton crater, the Moon"
 authors:
 - Lijie Mo
-- Chunyu Ding
 - Jiangwan Xu
 - Zehua Dong
 - Jiawei Li
 - Yan Su
+- Chunyu Ding
 author_notes:
+-
+-
+-
+-
 -
 - "Corresponding author"
 date: "2025-01-01T00:00:00Z"
