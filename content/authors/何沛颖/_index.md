@@ -3,8 +3,8 @@
 title: 何沛颖
 
 # Full name (for SEO)
-first_name: He
-last_name: Peiying
+first_name: Peiying
+last_name: He
 
 
 # Is this the primary user of the site?
