@@ -1,5 +1,5 @@
 ---
-title: 生活
+title: 活动
 
 # Listing view
 view: compact
