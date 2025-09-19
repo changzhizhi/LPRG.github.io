@@ -17,7 +17,7 @@ date: '2025-09-19T14:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-09-19T14:30:00Z'
+publishDate: '2025-09-18T14:30:00Z'
 
 
 # Is this a featured talk? (true/false)
