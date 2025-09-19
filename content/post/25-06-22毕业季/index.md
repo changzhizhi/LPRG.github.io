@@ -1,6 +1,6 @@
 ---
-title: 2024届学生毕业去向
-date: 2024-06-16
+title: 2025届学生毕业去向
+date: 2025-06-22
 image:
   focal_point: 'top'
 ---
