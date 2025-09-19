@@ -13,11 +13,11 @@ abstract: Processes operating in the outer layers of the Sun’s atmosphere, the
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-09-19T14:30:00Z'
+date: '2025-09-18T14:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-09-19T14:30:00Z'
+publishDate: '2025-09-18T14:30:00Z'
 
 
 # Is this a featured talk? (true/false)
