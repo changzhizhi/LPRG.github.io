@@ -7,7 +7,7 @@ main:
   - name: 导览
     url: tour
     weight: 10
-  - name: 新闻
+  - name: 报告
     url: event
     weight: 20
   - name: 团队
