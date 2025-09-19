@@ -11,7 +11,7 @@ last_name: Zhihuan
 superuser: false
 
 # Role/position
-role: 2021级本科生
+role: 2021级本科生，已毕业
 
 # Organizations/Affiliations
 organizations:
