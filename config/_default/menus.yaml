@@ -16,7 +16,7 @@ main:
   - name: 论文
     url: publication
     weight: 40
-  - name: 生活
+  - name: 活动
     url: post
     weight: 50
   - name: 联系我们
